@@ -30,7 +30,7 @@ html {
 }
 
 .hand-minute {
-  animation: hand 0.5s linear infinite;
+  animation: hand .5s linear infinite;
   transform-origin: bottom;
   left: 8.95em;
   top: 4em;
